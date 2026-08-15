@@ -1,0 +1,2 @@
+ALTER TABLE users ADD COLUMN avatar_path VARCHAR(500) NULL DEFAULT NULL AFTER department;
+ALTER TABLE users ADD COLUMN avatar_content_type VARCHAR(100) NULL DEFAULT NULL AFTER avatar_path;

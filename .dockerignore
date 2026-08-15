@@ -1,0 +1,12 @@
+target/
+uploads/
+*.log
+.env
+.git
+.gitignore
+.idea
+*.iml
+scripts/
+HELP.md
+README.md
+library_db.sql
